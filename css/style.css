@@ -1,12 +1,13 @@
 body{
-  color:#ffffff;
+  color:#7650A0;
   background-color:white;
 }
 h3{
-  color:gold;
-  font-size: 110px;
+  color:#f7ec20;
+  font-size: 85px;
+  text-align:center;
 
 }
 p{
-  color:purple;
+  font-size: 18px;
 }
